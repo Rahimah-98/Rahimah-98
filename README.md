@@ -1,28 +1,35 @@
 
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+[![](https://visitcount.itsvg.in/api?id=Rahimah-98&icon=5&color=3)](https://visitcount.itsvg.in)
+
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rahimah+Ansari+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rahimah+Ansari+!;A+web+developer+!;" />
 </h1>
-<h3 align="center">A passionate web developer from Afghanistan.</h3>
-<br/>
 
-<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif">
+<div align="center">
+  <br/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
 
-<div align="left">
- 
+<hr/>
+<div align="center">
+  <h2> About me </h2>
+  
  🔭 I’m currently working on [The Wild Oasis Website](https://github.com/Rahimah-98/the-wild-oasis-website)
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Next.js, Supabase**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **HTML, CSS, JavaScript,Express, Node.js, React.js, Next.js...**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
+📫 How to reach me **rahimaansari98@gmail.com**
+
  </div>
  
-<div align="left"> 
+<div align="center"> 
   <br/>
   <a href="mailto:pedro.sales.muniz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -47,27 +54,27 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2> My Contributions </h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
 <h2 align="center"> Stats </h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
+<hr/>
+<div align="center">
+<h2>✍️ Random Dev Quote</h2>
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+<h2>🔝 Top Contributed Repo</h2>
+
+![](https://github-contributor-stats.vercel.app/api?username=Rahimah-98&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+
+</div>
 <hr/>
 
 <h3 align="center">
