@@ -6,10 +6,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rahimah+Ansari+!;A+web+developer+!;" />
 </h1>
-<hr/>
-<h2 align="center"> About me </h2>
 
 <div align="left">
+<h2 align="center"> About me </h2>
   
  🔭 I’m currently working on [The Wild Oasis Website](https://github.com/Rahimah-98/the-wild-oasis-website)
  
@@ -25,14 +24,8 @@
  
 <div align="left"> 
   <br/>
-  <a href="https://mail.google.com/mail/rahimaansari98@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://linkedin.com/in/rahimah-ansari" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
  
@@ -51,20 +44,13 @@
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Rahimah-98&count_private=true&theme=react&" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Rahimah-98&count_private=true&show_icons=true&theme=react&rank_icon=github" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Rahimah-98&hide=HTML&langs_count=8&layout=compact&theme=react&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
-<hr/>
+
 <div align="center">
-<h2>✍️ Random Dev Quote</h2>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)
-
-<h2>🔝 Top Contributed Repo</h2>
-
-![](https://github-contributor-stats.vercel.app/api?username=Rahimah-98&limit=5&theme=react&combine_all_yearly_contributions=true)
+  <img width=500 src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="top langs" />
 
 </div>
 <hr/>
