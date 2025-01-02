@@ -1,4 +1,3 @@
-
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 [![](https://visitcount.itsvg.in/api?id=Rahimah-98&icon=5&color=3)](https://visitcount.itsvg.in)
 
@@ -59,7 +58,9 @@
 <hr/>
 <br/><br/>
 <div align="center">
-  <img width=700 src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="top langs" />
+
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+    
 </div>
 
 <br/>
