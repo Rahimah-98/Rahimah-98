@@ -15,8 +15,6 @@
 
 💬 Ask me about **HTML, CSS, JavaScript,Express, Node.js, React.js, Next.js...**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
 📫 How to reach me **rahimaansari98@gmail.com**
 
  </div>
